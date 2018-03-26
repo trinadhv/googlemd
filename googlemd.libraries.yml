@@ -2,6 +2,7 @@ global-css:
   css:
     theme:
       css/materialize.css: {}
+      css/normalize.css: {}
       css/style.css: {}
 
 
