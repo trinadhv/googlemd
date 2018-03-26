@@ -1,0 +1,44 @@
+
+/* Main Header*/
+.main-logo-col, .main-title-col{
+
+    text-align:center;
+}
+
+ h1 {
+    font-size: 46px;
+    font-family: inherit;
+    line-height: 56px;
+    font-weight: normal;
+     color: #414549;
+}
+
+h2{
+
+    font-size: 2.25rem;
+    font-weight: 400;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    color: #424242;
+    margin-bottom: 23px;
+    letter-spacing: .4px;
+
+}
+.article-title a span{
+
+    font-size: 2.25rem;
+    font-weight: 400;
+    font-style: normal;
+    text-rendering: optimizeLegibility;
+    color: #424242;
+    margin-bottom: 23px;
+    letter-spacing: .4px;
+}
+
+a.site-name {
+    font-size: 46px;
+    font-family: inherit;
+    line-height: 56px;
+    font-weight: 300;
+    color: #424242;
+}

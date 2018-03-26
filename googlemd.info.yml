@@ -1,0 +1,14 @@
+name: Google Material Design
+description: Google's Material Desgin for Drupal 8
+type: theme
+core: 8.x
+
+libraries:
+  - googlemd/global-css
+  - googlemd/global-js
+
+regions:
+  content: 'Main Content'
+  header: 'Header'
+  footer: 'Footer'
+  sidebar: 'Sidebar'
